@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <student category="Tom">
+    <id lang="en">01</id>
+    <name>Tom</name>
+    <lastname>Price</lastname>
+  </student>
+  <student category="Nick">
+    <id lang="en">02</id>
+    <name>Nick</name>
+    <lastname>Thameson</lastname>
+  </student>
+</student>

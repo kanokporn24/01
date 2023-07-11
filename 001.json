@@ -1,0 +1,19 @@
+{
+    "stdname":[
+        {   "id" : "566003204-1",
+        "stdName" : "Robert" ,
+        "gpa" : "3.06",
+        "register" : "subject",
+        "sid" : "322433",
+        "grade" : "A"
+    },
+    {
+        "id" : "566003204-1",
+        "stdName" : "Robert" ,
+        "gpa" : "3.06",
+        "register" : "subject",
+        "sid" : "322236",
+        "grade" : "c"
+    }
+    ]
+}

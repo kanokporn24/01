@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book category="cooking">
+    <id="en">01</id>
+    <Ianguafe>java</Ianguafe>
+    <edition>third</edition>
+    <author>Herbert schildt</author>
+  </book>
+  <book category="children">
+    <id="en">07</id>
+    <Ianguafe>C++</Ianguafe>
+    <edition>Second</edition>
+    <price>E.Balagu</price>
+  </book>
+
+</bookstore>
